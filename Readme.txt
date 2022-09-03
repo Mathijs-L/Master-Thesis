@@ -3,6 +3,7 @@ A comparison between SES, ARIMA, LSTM and Hybrid ARIMA-LST
 Author: Mathijs Lenderink
 Supervisor: dr. Gertjan Verhoeven
 Date: 3-6-2022
+Grade: 8
 
 
 This repository contains all python scripts I used to program the four models I analyze in my master thesis.
